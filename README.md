@@ -1,6 +1,15 @@
 # Clone Uber Interface
-![](https://github.com/jeffersondossantosaguiar/CLONE_UBER_INTERFACE/blob/main/Screenshot_20201104-092703.png)
-
+ <div class="row">
+  <div class="column" style="padding-left:10px">
+    <img src="/Screenshot_20201104-092703.png" alt="screenshot" width="300"/>
+  </div>
+  <div class="column">
+    <img src="/Screenshot_20201104-092717.png" alt="screenshot" width="300"/>
+  </div>  
+  <div class="column">
+    <img src="/Screenshot_20201104-092737.png" alt="screenshot" width="300"/>
+  </div>
+</div> 
 
 Pequeno projeto "clone" da interface do Uber
 
