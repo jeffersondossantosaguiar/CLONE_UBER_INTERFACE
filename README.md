@@ -1,10 +1,8 @@
 # Clone Uber Interface
  <div class="row">
-  <div class="column">
     <img src="/Screenshot_20201104-092703.png" alt="screenshot" width="300"/>
     <img src="/Screenshot_20201104-092717.png" alt="screenshot" width="300"/>
     <img src="/Screenshot_20201104-092737.png" alt="screenshot" width="300"/>
-  </div>
 </div> 
 
 Pequeno projeto "clone" da interface do Uber
