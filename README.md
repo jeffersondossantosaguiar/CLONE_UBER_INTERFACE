@@ -1,6 +1,6 @@
 # Clone Uber Interface
  <div class="row">
-  <div class="column" style="padding-left:10px">
+  <div class="column">
     <img src="/Screenshot_20201104-092703.png" alt="screenshot" width="300"/>
   </div>
   <div class="column">
