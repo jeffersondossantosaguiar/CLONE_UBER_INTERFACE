@@ -8,7 +8,7 @@
 Pequeno projeto "clone" da interface do Uber
 
 ## Motivação
-Projeto para colocar em pratica o aprendizado React Native além de aprender a trabalhar com bibliotecas de mapas e geolocalização.
+Colocar em pratica o aprendizado React Native e suas funçãos em especial os Hooks (useState e useEffect), além trabalhar com bibliotecas de mapas e geolocalização.
 
 ## Bibliotecas Usadas
 * [React-native-maps](https://github.com/react-native-maps/react-native-maps)
